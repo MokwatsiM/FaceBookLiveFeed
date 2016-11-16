@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "11972531492",
+    "firebase_url": "https://facebooklivefeed.firebaseio.com",
+    "project_id": "facebooklivefeed",
+    "storage_bucket": "facebooklivefeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11972531492:android:3b3dd53b61a21867",
+        "android_client_info": {
+          "package_name": "com.ekasilab.facebooklivefeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11972531492-5pjadri5tu98vnod7btje5fehb575tfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekasilab.facebooklivefeed",
+            "certificate_hash": "FDDADF1B7A1509AE3147CA76C6D3FCE2509D8447"
+          }
+        },
+        {
+          "client_id": "11972531492-ooe79vkb0v7c88k09qv2sj8ehogndrl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLnJ_k54b77Aoi-AFowdqJEKCeuL2T1VE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11972531492-ooe79vkb0v7c88k09qv2sj8ehogndrl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
