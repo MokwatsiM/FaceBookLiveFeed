@@ -36,7 +36,6 @@ public class UserProfile extends BaseActivity implements View.OnClickListener {
     private UploadTask uploadTask;
     private EditText eUserFullName;
     private Button btnNext;
-    private FirebaseAuth.AuthStateListener authListener;
     private Uri file;
     private RoundImageView displayPicture;
     private TextWatcher textWatcher = new TextWatcher() {
